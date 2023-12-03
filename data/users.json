@@ -21,12 +21,6 @@
       "password": "1111",
       "confirmPassword": "1111",
       "id": 4
-    },
-    {
-      "email": "rana@gmail.com",
-      "password": "1111",
-      "confirmPassword": "1111",
-      "id": 5
     }
   ]
 }
